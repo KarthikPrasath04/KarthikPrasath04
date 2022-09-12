@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KarthikPrasath04
+- 👋 Hi, I’m @KarthikPrasath
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Controls and Autamation related projects
