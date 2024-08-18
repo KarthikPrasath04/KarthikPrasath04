@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarthikPrasath
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on Controls and Autamation related projects
+- 👀 I’m interested in rovers and space technologies
+- 🌱 I’m currently learning embedded systems
+- 💞️ I’m looking to collaborate on rover projects
 - 📫 Reach me via email: karthikprasath04@gmail.com
 
 <!---
